@@ -10,14 +10,14 @@ Model renderings:
 
 ## 1. Installation
 
-- (1) Create a conda environment:
+- Create a conda environment:
 
 ```
 $ conda env create -f semiseg.yaml
 $ conda activate semiseg
 ```
 
-- (2) Install apex 0.1 (requires CUDA)
+- Install apex 0.1 (requires CUDA)
 
 ```
 $ cd . /furnace/apex
@@ -28,9 +28,9 @@ The implementation of our model code references [TorchSemiSeg](https://github.co
 
 ## 2. Data Preparation
 
-- (1) Download the data. Support the import of medical image datasets, including CT scans, MRI images, etc., this time using the Kvasir-SEG dataset for segmentation, if necessary, you can replace the dataset.
+- Download the data. Support the import of medical image datasets, including CT scans, MRI images, etc., this time using the Kvasir-SEG dataset for segmentation, if necessary, you can replace the dataset.
 
-- (2) Download the pre-trained ResNet models from  [OneDrive link](https://pkueducn-my.sharepoint.com/:f:/g/personal/pkucxk_pkueducn_onmicrosoft_com/EtjNKU0oVMhPkOKf9HTPlVsBIHYbACel6LSvcUeP4MXWVg?e=tChnP7).
+- Download the pre-trained ResNet models from  [OneDrive link](https://pkueducn-my.sharepoint.com/:f:/g/personal/pkucxk_pkueducn_onmicrosoft_com/EtjNKU0oVMhPkOKf9HTPlVsBIHYbACel6LSvcUeP4MXWVg?e=tChnP7).
 
 ```
 DATA/
