@@ -2,11 +2,11 @@
 
 Overall structure of the DFCPS:
 
-![image](img/structure.png)
+![structure](img/structure.png)
 
 Model renderings:
 
-![image](img/comparison.png)
+![comparison](img/comparison.png)
 
 ## 1. Installation
 
