@@ -2,7 +2,7 @@
 
 Overall structure of the DFCPS:
 
-![structure](img/structure.png)
+![structure](img/model.png)
 
 Model renderings:
 
