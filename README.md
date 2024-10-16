@@ -62,10 +62,12 @@ Please note that, for fair comparison, we control the total iterations during tr
 ## 5. Citation
 
 ```
-@article{chen2024semi,
-  title={Semi-supervised Medical Image Segmentation Method Based on Cross-pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies},
-  author={Chen, Yifei and Zhang, Chenyan and Ke, Yifan and Huang, Yiyu and Dai, Xuezhou and Qin, Feiwei and Zhang, Yongquan and Zhang, Xiaodong and Wang, Changmiao},
-  journal={arXiv preprint arXiv:2402.11273},
-  year={2024}
+@inproceedings{inproceedings,
+author = {Chen, Yifei and Zhang, Chenyan and Ke, Yifan and Huang, Yiyu and Dai, Xuezhou and Qin, Feiwei and Zhang, Yongquan and Zhang, Xiaodong and Wang, Changmiao},
+year = {2024},
+month = {05},
+pages = {1-5},
+title = {Semi-Supervised Medical Image Segmentation Method Based on Cross-Pseudo Labeling Leveraging Strong and Weak Data Augmentation Strategies},
+doi = {10.1109/ISBI56570.2024.10635443}
 }
 ```
